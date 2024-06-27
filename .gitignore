@@ -1,0 +1,9 @@
+test_the-internet.py
+junit/
+__pycache__/
+PageClasses/__pycache__/
+tests/__pycache__/
+utils/__pycache__/
+
+# @pytest.fixture(scope='module')
+# def toggleButtonTest(setup_teardown, button, element, loading, initialstate, getstatemethod):
