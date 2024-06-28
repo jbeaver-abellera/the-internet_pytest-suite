@@ -15,7 +15,7 @@ This project explores Quality Assurance and automated testing techniques using t
 
 <a id="tech-stack"></a>
 ## Tech Stack:
-1. Programming Language - `python`
+1. Programming Language - `python` 
 2. Testing Library - `pytest`
 3. Automation Library - `Selenium`
 4. Reporting Format - `JUnit`
